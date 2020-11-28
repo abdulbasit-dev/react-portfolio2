@@ -1,0 +1,21 @@
+.hero {
+  min-height: calc(100vh - 88px);
+  background: white;
+}
+
+.hero__container {
+  padding-top: 150px;
+  margin-right: 0 !important;
+}
+.hero__img {
+  width: 400px;
+  object-fit: contain;
+}
+
+.hero__description {
+  padding-left: 10rem;
+}
+
+.hero__description p {
+  font-size: 22px;
+}

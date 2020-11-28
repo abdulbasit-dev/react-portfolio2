@@ -1,0 +1,23 @@
+.aboutMe {
+  padding-left: 10rem;
+  padding-right: 11rem;
+}
+
+.aboutMe__title {
+  border-bottom: 3px solid #11abb0;
+  padding-bottom: 6px;
+  text-transform: uppercase;
+  width: 118px;
+  font-size: 20px;
+  letter-spacing: 1px;
+}
+
+.aboutMe__educationDescription,
+.aboutMe_contact {
+  font-size: 20px;
+}
+
+.aboutMe__contactTitle {
+  color: #11abb0;
+  font-weight: 500;
+}

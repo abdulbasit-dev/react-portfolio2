@@ -1,0 +1,100 @@
+{
+  "projects": [
+    {
+      "name": "Covid19 Tracker",
+      "source": "https://github.com/abdulbasit-web/covid19-tracker",
+      "liveUrl": "https://covid19-trackers.netlify.app/",
+      "screenShot": "images/covid19-tracker.jpg",
+      "technology": ["React.js", "react-chartjs-2", "react-leaflet"]
+    },
+    {
+      "name": "Amazon Clone",
+      "source": "https://github.com/abdulbasit-web/amazon-clone",
+      "liveUrl": "https://clone-36c36.web.app/",
+      "screenShot": "images/amazon-clone.jpg",
+      "technology": ["react.js", "firebase", "material-ui"]
+    },
+
+    {
+      "name": "Covid19 Tracker",
+      "source": "https://github.com/abdulbasit-web/covid19-tracker",
+      "liveUrl": "https://covid19-trackers.netlify.app/",
+      "screenShot": "images/covid19-tracker.jpg",
+      "technology": ["React.js", "react-chartjs-2", "react-leaflet"]
+    },
+    {
+      "name": "Amazon Clone",
+      "source": "https://github.com/abdulbasit-web/amazon-clone",
+      "liveUrl": "https://clone-36c36.web.app/",
+      "screenShot": "images/amazon-clone.jpg",
+      "technology": ["react.js", "firebase", "material-ui"]
+    }
+  ],
+  "social": [
+    {
+      "name": "github",
+      "url": "https://github.com/abdulbasit-web",
+      "className": "fab fa-github"
+    },
+
+    {
+      "name": "linkedin",
+      "url": "https://www.linkedin.com/in/abdulbasit-salah-2b983416b/",
+      "className": "fab fa-linkedin"
+    },
+    {
+      "name": "facebook",
+      "url": "https://www.facebook.com/abdulbasit.salah.7",
+      "className": "fab fa-facebook"
+    }
+  ],
+  "skills": [
+    {
+      "name": "ReactJs",
+      "level": "85%"
+    },
+    {
+      "name": "CSS",
+      "level": "80%"
+    },
+    {
+      "name": "HTML5",
+      "level": "80%"
+    },
+    {
+      "name": "Git",
+      "level": "60%"
+    },
+    {
+      "name": "Bootstarp 4",
+      "level": "80%"
+    },
+    {
+      "name": "JavaScript",
+      "level": "70%"
+    },
+    {
+      "name": "Larvel 7",
+      "level": "30%"
+    }
+  ],
+  "contact": {
+    "email": "abdulbasit99salah@gmail.com",
+    "phoneNumber": "+964 0750 435 9180",
+    "address": "Erbil-Iraq"
+  },
+  "education": [
+    {
+      "school": "College of Engineering | Salahaddin University-Erbil",
+      "degree": "Software and Informatics Engineering",
+      "graduated": "Still under graduted",
+      "description": "Graduated with Distinction"
+    },
+    {
+      "school": "Re:coded House",
+      "degree": "Re:coded Front-End Web Developemnt Bootcamp 2020",
+      "graduated": "Gradutated at 1/10/2020",
+      "description": "Graduated with Distinction"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+@import 'https://fonts.googleapis.com/css?family=Raleway';
+
+.borderYtoX ul {
+  list-style: none;
+  display: flex;
+}
+
+.header {
+  background-color: #183153 !important;
+}
+
+.hed {
+  padding-left: 10rem;
+  padding-right: 13rem;
+}
+
+.header__socialIcon a {
+  color: #fff;
+}
+
+.header__socialIcon a {
+  font-size: 2rem;
+  transition: 600ms;
+}
+
+.header__socialIcon a:hover {
+  color: #17a2b8;
+  color: #ffd43b;
+}
+
+.header .borderYtoX a {
+  color: #fff;
+  text-decoration: none;
+  font: 16px Raleway;
+  margin: 0px 10px;
+  padding: 10px 10px;
+  position: relative;
+  z-index: 0;
+  cursor: pointer;
+  font-weight: 500;
+}
+.header .borderYtoX a:hover {
+  color: #ffd43b;
+}
+
+/* Border from Y to X  */
+.borderYtoX a:before,
+.borderYtoX a:after {
+  position: absolute;
+  opacity: 0.5;
+  height: 100%;
+  width: 2px;
+  content: '';
+  background: white;
+  transition: all 0.3s;
+}
+
+.borderYtoX a:before {
+  left: 0px;
+  top: 0px;
+}
+
+.borderYtoX a:after {
+  right: 0px;
+  bottom: 0px;
+}
+
+.borderYtoX a:hover:before,
+.borderYtoX a:hover:after {
+  opacity: 1;
+  height: 2px;
+  width: 100%;
+}
