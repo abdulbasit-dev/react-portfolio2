@@ -1,11 +1,18 @@
 {
   "projects": [
     {
+      "name": "Doctor Dooking",
+      "source": "https://github.com/Iraq-WBC-Capstones-2020/doctor-booking-web",
+      "liveUrl": "https://dbw.netlify.app/",
+      "screenShot": "images/doctor-booking-web.jpg",
+      "technology": ["react.js", "firebase", "react-bootstrap", "react-router","i18next"]
+    },
+    {
       "name": "Covid19 Tracker",
       "source": "https://github.com/abdulbasit-web/covid19-tracker",
       "liveUrl": "https://covid19-trackers.netlify.app/",
       "screenShot": "images/covid19-tracker.jpg",
-      "technology": ["React.js", "react-chartjs-2", "react-leaflet"]
+      "technology": ["react.js", "react-chartjs-2", "react-leaflet"]
     },
     {
       "name": "Amazon Clone",
@@ -16,19 +23,13 @@
     },
 
     {
-      "name": "Covid19 Tracker",
-      "source": "https://github.com/abdulbasit-web/covid19-tracker",
-      "liveUrl": "https://covid19-trackers.netlify.app/",
-      "screenShot": "images/covid19-tracker.jpg",
-      "technology": ["React.js", "react-chartjs-2", "react-leaflet"]
-    },
-    {
-      "name": "Amazon Clone",
-      "source": "https://github.com/abdulbasit-web/amazon-clone",
-      "liveUrl": "https://clone-36c36.web.app/",
-      "screenShot": "images/amazon-clone.jpg",
-      "technology": ["react.js", "firebase", "material-ui"]
+      "name": "Breaking Bad Api",
+      "source": "https://github.com/abdulbasit-web/react-breaking-bad-api",
+      "liveUrl": "https://inspiring-roentgen-a023f1.netlify.app/",
+      "screenShot": "images/react-breaking-bad-api.jpg",
+      "technology": ["react.js"]
     }
+  
   ],
   "social": [
     {
