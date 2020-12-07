@@ -1,0 +1,13 @@
+.socialIcon a {
+  color: #fff;
+}
+
+.socialIcon a {
+  font-size: 2rem;
+  transition: 600ms;
+}
+
+.socialIcon a:hover {
+  color: #17a2b8;
+  color: #ffd43b;
+}

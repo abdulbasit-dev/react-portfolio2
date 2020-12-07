@@ -9,23 +9,13 @@
   background-color: #183153 !important;
 }
 
-.hed {
+.header-container {
   padding-left: 10rem;
   padding-right: 13rem;
 }
 
-.header__socialIcon a {
-  color: #fff;
-}
-
-.header__socialIcon a {
-  font-size: 2rem;
-  transition: 600ms;
-}
-
-.header__socialIcon a:hover {
-  color: #17a2b8;
-  color: #ffd43b;
+.list-item li a {
+  text-transform: uppercase;
 }
 
 .header .borderYtoX a {
