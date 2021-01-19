@@ -1,6 +1,13 @@
 {
   "projects": [
     {
+      "name": "Soft Lecture",
+      "source": "https://github.com/abdulbasit-web/softLecture",
+      "liveUrl": "https://softlecture.netlify.app/",
+      "screenShot": "images/soft lecture.png",
+      "technology": ["react.js", "firebase", "Material-Ui", "tailwindcss"]
+    },
+    {
       "name": "Doctor Dooking",
       "source": "https://github.com/Iraq-WBC-Capstones-2020/doctor-booking-web",
       "liveUrl": "https://dbw.netlify.app/",
