@@ -29,11 +29,6 @@ function Header({data}) {
                 certificate
               </a>
             </li>
-            <li className='nav-item'>
-              <a href='#contactMe' className='nav-link'>
-                CONTACT ME
-              </a>
-            </li>
           </ul>
         </nav>
         <SocialContact data={data} />

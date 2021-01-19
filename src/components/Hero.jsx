@@ -19,7 +19,15 @@ function Hero() {
             <p>Full Stack web Developer</p>
             <div className='hero_action mt-4'>
               <button className='btn btn-dark btn-lg'>Contact Me</button>
-              <button className='btn btn-outline-info ml-3 btn-lg'>See My Cv</button>
+              <a
+                href='https://docs.google.com/document/d/1qHTEaAmyJAO87x80Sb9uCbCx6LJV_8sS/edit'
+                rel='noreferrer'
+                target='_blank'
+              >
+                <button className='btn btn-outline-info ml-3 btn-lg'>
+                  See My Cv
+                </button>
+              </a>
             </div>
           </motion.div>
         </div>
